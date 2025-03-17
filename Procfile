@@ -1,1 +1,1 @@
-web: python -m pyxtermjs
+worker: python -m pyxtermjs
